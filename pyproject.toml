@@ -1,0 +1,7 @@
+[project]
+name = "fiqh-py-sawm-kaffarah-calc"
+version = "1.0.0"
+description = "Ramadan Sawm Qada, Fidyah & Kaffarah Obligation Resolver (محرك أحكام الصيام والفدية والكفارات وقضاء الأيام)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
